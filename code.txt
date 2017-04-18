@@ -1,2 +1,6 @@
 print("Hello mazafaka");
 PRINT("NU TAKOE");
+public void lyosha()
+{
+print("Lyoha ne gay");
+}
