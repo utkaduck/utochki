@@ -1,2 +1,3 @@
 print("Hello mazafaka");
 PRINT("NU TAKOE");
+lyoha;
